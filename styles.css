@@ -1,11 +1,11 @@
 @font-face{
   font-family: "Snes Italic";
-  src: url("/fonts/SnesItalic-1G9Be.ttf");  
+  src: url("./fonts/SnesItalic-1G9Be.ttf");  
 }
 
 @font-face{
   font-family: "Virtual Rot";
-  src: url("/fonts/VirtualRotRegular-R51V.ttf");
+  src: url("./fonts/VirtualRotRegular-R51V.ttf");
 }
 
 *{  
